@@ -35,8 +35,3 @@ img{
     display: flex;
     justify-content: center;
 }
-@media (min-width: 1000px) {
-  .barcode-container{
-    margin-top: 20px;
-  }
-  }
